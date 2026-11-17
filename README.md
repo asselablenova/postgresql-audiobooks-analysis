@@ -34,7 +34,7 @@ SELECT
 FROM audio_cards ac
 JOIN audiobooks b ON ac.audiobook_uuid = b.uuid
 WHERE b.title = 'Coraline';
-
+```
 ---
 
 ## 📊 Ключевые выводы (Инсайты)
